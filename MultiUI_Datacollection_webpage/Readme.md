@@ -208,5 +208,7 @@ An ideal project to showcase your **full-stack capabilities**.
 ## Image Preview
 ![img alt](https://github.com/Disha-Gupta-892/Web_Development_Project/blob/a52be435d647cbd0709503d3dc04f0f0e0438b6d/MultiUI_Datacollection_webpage/desktop_version.png)
 
+![img alt](https://github.com/Disha-Gupta-892/Web_Development_Project/blob/328bca78447d136090841c28b7ab906262f60ea4/MultiUI_Datacollection_webpage/mobile_preview.png)
+
 Just say the word.
 
