@@ -155,3 +155,5 @@ This project demonstrates:
 * Real-world application structure recruiters love
 
 ---
+## **Preview**
+![image](https://github.com/Disha-Gupta-892/Web_Development_Project/blob/b1b7614091a6c6a32f2b14f4583f24332055aa79/Elite-Fitness-Project/preview.png)
